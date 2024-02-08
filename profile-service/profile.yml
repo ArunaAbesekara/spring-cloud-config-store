@@ -1,4 +1,4 @@
 profile:
   min: 1
 server:
-  port:8191
+  port: 8191
