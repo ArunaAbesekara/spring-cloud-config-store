@@ -1,8 +1,5 @@
-server:
-	port:9191
-	
 profile:
-	min:1
+  min:1
 	
 	
 	
